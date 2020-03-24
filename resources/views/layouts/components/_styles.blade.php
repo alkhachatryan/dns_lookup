@@ -1,0 +1,9 @@
+<link rel="stylesheet" type="text/css" href="{{ asset('assets/vendors/css/vendors.min.css') }}">
+<link rel="stylesheet" type="text/css" href="{{ asset('assets/css/bootstrap.min.css') }}">
+<link rel="stylesheet" type="text/css" href="{{ asset('assets/css/bootstrap-extended.min.css') }}">
+<link rel="stylesheet" type="text/css" href="{{ asset('assets/css/colors.min.css') }}">
+<link rel="stylesheet" type="text/css" href="{{ asset('assets/css/components.min.css') }}">
+<link rel="stylesheet" type="text/css" href="{{ asset('assets/css/themes/dark-layout.min.css') }}">
+<link rel="stylesheet" type="text/css" href="{{ asset('assets/css/themes/semi-dark-layout.min.css') }}">
+<link rel="stylesheet" type="text/css" href="{{ asset('assets/css/core/menu/menu-types/vertical-menu.min.css') }}">
+<link rel="stylesheet" type="text/css" href="{{ asset('assets/css/style.css') }}">
