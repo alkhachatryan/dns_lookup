@@ -8,3 +8,4 @@
 <script src="{{ asset('assets/js/scripts/components.min.js') }}"></script>
 <script src="{{ asset('assets/js/scripts/footer.min.js') }}"></script>
 <script src="{{ asset('assets/js/scripts/customizer.min.js') }}"></script>
+<script src="{{ asset('assets/js/scripts/script.js') }}"></script>

@@ -14,3 +14,7 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', ['as' => 'home', 'uses' => 'HomeController@index']);
+
+Route::group(['prefix' => '/dns', 'as' => 'dns.'], function (){
+    Route::get('/dkim-dmarc-spf', ['as' => 'dkim-dmarc-spf', 'uses' => 'DNSLookupController@getDkimDmarcSpfRecords']);
+});

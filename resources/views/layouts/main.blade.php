@@ -28,7 +28,7 @@
 
 
 @include('layouts.components._scripts')
-
+<div class="loading">Loading&#8230;</div>
 </body>
 </html>
 
